@@ -1,4 +1,4 @@
-# Product_recommender
+# Spanish Supermarkets Products analysis and recommender system
 
 This project is a complete Spanish supermarket analysis that includes the following steps:
 - Scrap 11 different Spanish webpages supermarkets to obatin the products they offer and some characteristics of them.
